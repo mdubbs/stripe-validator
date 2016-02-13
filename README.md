@@ -7,3 +7,6 @@ Stripe jQuery.payment validator methods for jQuery.validation. They are not diff
 [jQuery.Validation](https://github.com/jzaefferer/jquery-validation)
 
 [jQuery.Payment](https://github.com/stripe/jquery.payment)
+
+### But wait there's more!
+I also did some customization for Bootstrap 4 (alpha3)
